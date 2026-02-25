@@ -37,9 +37,10 @@ class Array3 {
         if (secondLarges == Integer.MIN_VALUE) {
             System.out.println("There is no second largest element");
         } else {
-            System.out.println("The second largest element is: " + secondLarges);
+            System.out.print("The second largest element is  :" + secondLarges);
         }
 
         sc.close();
     }
+
 }
