@@ -11,12 +11,13 @@ public class Array3 {
             arr[i] = sc.nextInt();
         }
 
-        System.out.println("Reversed array");
+        System.out.println("The Reversed array : ");
 
         for(int i = n - 1; i >= 0; i--){
-            System.out.println(arr[i]);
+            System.out.print(arr[i]);
         }
 
         sc.close();
     }
+
 }
