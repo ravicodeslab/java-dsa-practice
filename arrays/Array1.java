@@ -10,7 +10,7 @@ public class Array1 {
 	}
 	System.out.println("The array elements : ");
 	for(int val : arr){
- 	System.out.println(val);}
+ 	System.out.print("The Array elements are :" + val);}
 
 		sc.close();
         
@@ -18,3 +18,4 @@ public class Array1 {
             }
 
 }
+
