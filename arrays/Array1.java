@@ -11,7 +11,10 @@ public class Array1 {
 	System.out.println("The array elements : ");
 	for(int val : arr){
  	System.out.println(val);}
+
+		sc.close();
         
 
             }
+
 }
